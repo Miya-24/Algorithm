@@ -13,6 +13,7 @@ void OutPut(int A[], int Num)
         if (NumCnt > 0) printf(" ");
         printf("%d", A[NumCnt]);
     }
+    printf("\n");
 }
 
 //バブルソート
